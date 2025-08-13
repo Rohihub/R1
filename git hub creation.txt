@@ -1,0 +1,14 @@
+
+git hub repository create
+file explore mai folder create, open file and then right click for bit bash cmd .
+git clone "Repository path"
+LS= file name find in file explore in directory
+git status =  konsa file ke under changes kiya hai 
+git diff (file name)  = file ke under kya under kya changes kiya hai {text.txt}
+git add . =  file ko repository ke under add krne ke liye hota hai 
+
+git commit -m "updation massage" = commit or  massge print ke liye 
+git push = file ko push krne ke liye 
+
+
+
